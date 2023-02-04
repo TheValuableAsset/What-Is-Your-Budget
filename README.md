@@ -17,7 +17,7 @@ A label-based indicator that automatically calculates your budget limit by round
 
 # 
 
-## Budget:
+### Budget:
 
 #
 

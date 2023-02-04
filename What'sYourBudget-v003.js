@@ -2,7 +2,7 @@
 #                                     #
 #        What's Your Budget?          #
 #   	    v.0.0.3 alpha             #
-#                                   #
+#                                     #
 # 	Made by TheValuableAsset  #
 #									 #
 #######################################

@@ -73,7 +73,9 @@ Max Loss = 25, so 2500 ÷ 25 = 100
 
 #
 
-## Settings:
+### Settings:
+
+#
 
 ![Budget Settings](https://i.imgur.com/iLVfjTw.png)
 

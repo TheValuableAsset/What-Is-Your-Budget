@@ -14,6 +14,8 @@ An label-based indicator that automatically calculates your budget limit by roun
 
 # 
 
+## Budget:
+
 Simple math formula for estimate share amount based on your $ budget amount:
 
   - P.E.M.D.A.S applies to the formulas!
@@ -48,26 +50,7 @@ Budget / 33% = 246.55
 
 #
 
-## Settings 
-
-![Budget Settings](https://i.imgur.com/QzYNr9Q.png)
-
-  - Set budget $ amount
-  - Choose to toggle seeing shares that you can purchase at current price based on your budget
-
-...
-
-You may modify colors in the script itself - I need to implement color customization.
-
-As of now, ysing default ThinkOrSwim colors... Color.plum , Color.violet, and Color.cyan
-
-Change color.xxxxx to set thinkorswim's own colors
-
-Reference: [ThinkOrSwim](https://tlc.thinkorswim.com/center/reference/thinkScript/Constants/Color)
-
-#
-
- ### Max Gain and Max Loss Labels
+### Max Gain and Max Loss Labels
 
 If you want to modify the Max Gain / Max Loss, you msut modify the input in thinkscript!
 
@@ -87,6 +70,32 @@ For now, you're the pilot guiding the aircraft.
 Modify according to your strategy!!
 
 #
+
+## Settings 
+
+![Budget Settings](https://i.imgur.com/QzYNr9Q.png)
+
+  - Set budget $ amount
+  - Choose to toggle seeing shares that you can purchase at current price based on your budget
+
+...
+
+You may modify colors in the script itself - I need to implement color customization.
+
+As of now, ysing default ThinkOrSwim colors... Color.plum , Color.violet, and Color.cyan
+
+Change color.xxxxx to set thinkorswim's own colors
+
+Reference: [ThinkOrSwim](https://tlc.thinkorswim.com/center/reference/thinkScript/Constants/Color)
+
+#
+
+...
+ 
+ If I helped just one person, I'd die a happy man! :)
+ 
+...
+
 
 Please let me know of other math forumlas you may find more effective!
 

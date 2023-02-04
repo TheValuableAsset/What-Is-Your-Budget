@@ -5,9 +5,10 @@
 
 #
 
+![Budget Labels](https://i.imgur.com/6i0qTwG.png)
 #
 
-An indicator that automatically calculates your budget limit by rounding up shares you can afford within your price range - very useful for you cocky gamblers
+An label-based indicator that automatically calculates your budget limit by rounding up shares you can afford within your price range - very useful for you cocky gamblers
 
 # 
 

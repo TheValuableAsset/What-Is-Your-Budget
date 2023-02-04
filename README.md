@@ -1,5 +1,5 @@
 # What's Your Budget?
-#### A ThinkScript for ThinkOrSwim
+### A ThinkScript for ThinkOrSwim
 
 ##### build 0003
 ##### v.0.0.3 alpha

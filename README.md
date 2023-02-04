@@ -57,7 +57,7 @@ As of now, ysing default ThinkOrSwim colors... Color.plum , Color.violet, and Co
 
 Change color.xxxxx to set thinkorswim's own colors
 
-Reference: ![ThinkOrSwim Colors](https://tlc.thinkorswim.com/center/reference/thinkScript/Constants/Color)
+Reference: [ThinkOrSwim](https://tlc.thinkorswim.com/center/reference/thinkScript/Constants/Color)
 
 #
 

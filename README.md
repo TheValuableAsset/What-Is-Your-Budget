@@ -89,7 +89,7 @@ You may modify colors in the script itself - I need to implement color customiza
 
 As of now, ysing default ThinkOrSwim colors... Color.plum , Color.violet, and Color.cyan
 
-Change color.xxxxx to set thinkorswim's own colors
+Change color.xxxxx to set ThinkOrSwim's own colors (syntax) - Be sure to capitalize the first letter of color!
 
 Reference: [ThinkOrSwim](https://tlc.thinkorswim.com/center/reference/thinkScript/Constants/Color)
 

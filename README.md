@@ -5,6 +5,8 @@
 
 #
 
+#
+
 An indicator that automatically calculates your budget limit by rounding up shares you can afford within your price range - very useful for you cocky gamblers
 
 # 

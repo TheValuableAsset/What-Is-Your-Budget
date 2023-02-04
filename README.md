@@ -42,7 +42,7 @@ Budget / 33% = 246.55
 
 #
 
-### Settings 
+## Settings 
 
 ![Budget Settings](https://i.imgur.com/QzYNr9Q.png)
 

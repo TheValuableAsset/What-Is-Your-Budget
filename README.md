@@ -10,7 +10,10 @@
 #
 
 Description:
-An label-based indicator that automatically calculates your budget limit by rounding up shares you can afford within your price range - very useful for you cocky gamblers. Extra feature: See your max loss and max gain that you should follow (ratio 3:1 is default) - must be adjusted accordingly to your risk tolerance!!
+
+Are you sick of always using a calculator for calculating the proper share size that fits within your budget? Are you often letting your cockiness emotions take over and always over doing your share size? So was I, but now no more! I present What's Your Budget indicator!
+
+A label-based indicator that automatically calculates your budget limit by rounding up shares you can afford within your price range - very useful for you cocky gamblers. Extra feature: See your max loss and max gain that you should follow (ratio 3:1 is default) - must be adjusted accordingly to your risk tolerance!!
 
 # 
 
@@ -73,10 +76,11 @@ Modify according to your strategy!!
 
 ## Settings 
 
-![Budget Settings](https://i.imgur.com/QzYNr9Q.png)
+![Budget Settings](https://i.imgur.com/iLVfjTw.png)
 
   - Set budget $ amount
   - Choose to toggle seeing shares that you can purchase at current price based on your budget
+  - Choose your max loss, and max gain amount for the day based on your risk-to-reward ratio
 
 ...
 

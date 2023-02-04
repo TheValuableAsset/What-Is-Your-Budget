@@ -19,6 +19,8 @@ A label-based indicator that automatically calculates your budget limit by round
 
 ## Budget:
 
+#
+
 Simple math formula for estimate share amount based on your $ budget amount:
 
   - P.E.M.D.A.S applies to the formulas!

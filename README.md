@@ -53,7 +53,7 @@ Budget / 33% = 246.55
 
 #
 
-### Max Gain and Max Loss Labels
+### Max Gain and Max Loss Labels:
 
 If you want to modify the Max Gain / Max Loss, you msut modify the input in thinkscript!
 
@@ -74,7 +74,7 @@ Modify according to your strategy!!
 
 #
 
-## Settings 
+## Settings:
 
 ![Budget Settings](https://i.imgur.com/iLVfjTw.png)
 

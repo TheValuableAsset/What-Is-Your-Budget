@@ -55,7 +55,9 @@ Budget / 33% = 246.55
 
 ### Max Gain and Max Loss Labels:
 
-If you want to modify the Max Gain / Max Loss, you msut modify the input in thinkscript!
+#
+
+If you want to modify the Max Gain / Max Loss, you msut modify the input in the Settings section!
 
 Default input:
 
@@ -66,11 +68,6 @@ Input formulas:
 
 Max Gain = 3, so (2500 * 3) ÷ 25 = 300 
 Max Loss = 25, so 2500 ÷ 25 = 100
-
-Will add this in settings to customize yourself! 
-
-For now, you're the pilot guiding the aircraft. 
-Modify according to your strategy!!
 
 #
 

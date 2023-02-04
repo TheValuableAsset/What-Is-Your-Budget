@@ -9,7 +9,8 @@
 ![Budget Labels](https://i.imgur.com/6i0qTwG.png)
 #
 
-An label-based indicator that automatically calculates your budget limit by rounding up shares you can afford within your price range - very useful for you cocky gamblers
+Description:
+An label-based indicator that automatically calculates your budget limit by rounding up shares you can afford within your price range - very useful for you cocky gamblers. Extra feature: See your max loss and max gain that you should follow (ratio 3:1 is default) - must be adjusted accordingly to your risk tolerance!!
 
 # 
 
@@ -18,8 +19,12 @@ Simple math formula for estimate share amount based on your $ budget amount:
   - P.E.M.D.A.S applies to the formulas!
     - P.E.M.D.A.S = Paranthesis, Exponents, Multiplication, Division, Addition, Subtraction
 
+
+
 Budget / 100% = Round Share Quantity Purchase Limit ÷ 1
-Budget / 66% = Round Share Quantity Purchase Limit ÷ 3 x 2
+
+Budget / 66% = (Round Share Quantity Purchase Limit x 2) ÷ 3
+
 Budget / 33% = Round Share Quantity Purchase Limit ÷ 3
 
 
@@ -59,6 +64,27 @@ As of now, ysing default ThinkOrSwim colors... Color.plum , Color.violet, and Co
 Change color.xxxxx to set thinkorswim's own colors
 
 Reference: [ThinkOrSwim](https://tlc.thinkorswim.com/center/reference/thinkScript/Constants/Color)
+
+#
+
+ ### Max Gain and Max Loss Labels
+
+If you want to modify the Max Gain / Max Loss, you msut modify the input in thinkscript!
+
+Default input:
+
+input gain = 3;
+input loss = 25;
+
+Input formulas:
+
+Max Gain = 3, so (2500 * 3) ÷ 25 = 300 
+Max Loss = 25, so 2500 ÷ 25 = 100
+
+Will add this in settings to customize yourself! 
+
+For now, you're the pilot guiding the aircraft. 
+Modify according to your strategy!!
 
 #
 
